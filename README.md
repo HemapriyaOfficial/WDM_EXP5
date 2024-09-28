@@ -112,6 +112,8 @@ if __name__ == "__main__":
 
 
 ### Output:
-![Uploading WhatsApp Image 2024-09-28 at 08.34.48_a97b1af2.jpg…]()
+
+![WhatsApp Image 2024-09-28 at 08 34 48_d0b750f7](https://github.com/user-attachments/assets/4023f236-159c-4064-9435-95f976bbb3c1)
 
 ### Result:
+Implementation of Information Retrieval Using Boolean Model in Python is successfully completed.
